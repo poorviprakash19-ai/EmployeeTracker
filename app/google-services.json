@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "602994222846",
+    "project_id": "workorbit-de576",
+    "storage_bucket": "workorbit-de576.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602994222846:android:63bffccbf1aac186c7a7af",
+        "android_client_info": {
+          "package_name": "com.company.employeetracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5KnGrDlQL17kxinL6dvxMPTye05yLeF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
